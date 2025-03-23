@@ -9,8 +9,8 @@ import { initSpritesheet } from "./spritesheet.js"
 const config = {
     autoFocus: false,
     type: Phaser.AUTO, // webgl, canvas
-    width: 512, //revisar el tamaño de la pantalla
-    height: 488,
+    width: 256, //revisar el tamaño de la pantalla
+    height: 244,
     backgroundColor: '#181818',
     parent: 'game',
     physics:{
